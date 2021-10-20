@@ -58,3 +58,11 @@ img {
   width: 270px;
   margin: 20px 0;
 }
+
+.header .header-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 30px;
+}
