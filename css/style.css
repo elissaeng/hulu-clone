@@ -206,19 +206,26 @@ h4 {
     linear-gradient(24.5deg, rgba(0, 0, 0, 0.2) 4.71%, rgba(0, 0, 0, 0) 71.49%);
 }
 
-.cover-1 {
+.categories .cover-text {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  text-align: left;
+}
+
+.categories .cover-1 {
   background: url('../img/cover-1.jpeg') no-repeat center center / cover;
 }
 
-.cover-2 {
+.categories .cover-2 {
   background: url('../img/cover-2.jpeg') no-repeat center center / cover;
 }
 
-.cover-3 {
+.categories .cover-3 {
   background: url('../img/cover-3.jpeg') no-repeat center center / cover;
 }
 
-.cover-4 {
+.categories .cover-4 {
   background: url('../img/cover-4.jpeg') no-repeat center center / cover;
 }
 
