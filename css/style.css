@@ -271,6 +271,20 @@ h4 {
   text-decoration: underline;
 }
 
+/* Live Sports */
+.live-sports {
+  background: url('../img/live-sports.jpeg') no-repeat center center / cover;
+  height: 800px;
+  position: relative;
+}
+
+.live-sports-content {
+  position: absolute;
+  top: 160px;
+  left: 160px;
+  max-width: 550px;
+}
+
 /* Media Queries */
 @media(max-width: 1100px) {
   .categories .covers {
