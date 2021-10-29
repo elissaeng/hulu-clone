@@ -366,6 +366,14 @@ h4 {
   position: relative;
 }
 
+.modal-body {
+  padding: 50px;
+}
+
+.modal-body h3 {
+  font-weight: bold;
+}
+
 /* Media Queries */
 @media(max-width: 1100px) {
   .categories .covers {
